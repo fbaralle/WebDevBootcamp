@@ -1,0 +1,25 @@
+
+.menu {
+	font-size: 2em;
+}
+
+#brandIcon {
+	font-size: 2.5em;
+}
+
+.butIc {
+	padding-left: 0.3em;
+}
+
+div.container.main {
+	margin-top: 7em;
+}
+
+img {
+	width: 100%;
+	height: auto;
+}
+
+#buttonsEdit {
+	display: inline;
+}

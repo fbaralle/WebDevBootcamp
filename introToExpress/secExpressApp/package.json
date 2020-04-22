@@ -1,0 +1,14 @@
+{
+  "name": "expressapp2",
+  "version": "1.0.0",
+  "description": "another express app to practices routes and installing packages",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fran Baralle",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

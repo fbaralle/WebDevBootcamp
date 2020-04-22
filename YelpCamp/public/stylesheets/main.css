@@ -1,0 +1,21 @@
+img {
+	width: 100%;
+	height: auto;
+}
+
+.img-thumbnail.thumbs1 {
+	padding: 0;
+}
+
+.img-thumbnail .caption-full {
+	padding-left: 9px;
+}
+
+.r1 {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+#alerts {
+	margin-top: 70px;
+}
